@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 10.125" name="EmployeeDataClasses">
+  <DataContextMoniker Name="/EmployeeDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="73491766-5f9d-4c41-af5f-4a0b754db1b7" absoluteBounds="0.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/EmployeeDataClassesDataContext/DEPARTMENT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="72599eee-63bc-4d23-bc2c-9d69a5509c20" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3d4ce16d-fd8b-4411-b525-7d3dbf949a9c" absoluteBounds="0.75, 2.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/EmployeeDataClassesDataContext/TASKSTATE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4f8d06aa-f521-48a7-91d0-f65fa15c13bb" absoluteBounds="0.765, 3.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a8e55b6c-2113-4197-b56f-0284741ee24d" absoluteBounds="3.75, 0.75, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/EmployeeDataClassesDataContext/EMPLOYEE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bbbadc7c-b141-4e9e-aa6b-192d82bc8024" absoluteBounds="3.765, 1.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0c075cb6-9ad2-4dc6-97a5-ea2d5d19ce78" absoluteBounds="0.75, 4.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/EmployeeDataClassesDataContext/MONTH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="91e18125-eb60-4e8a-8906-c1858cf097ee" absoluteBounds="0.765, 5.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="42e421f1-30de-44a8-a51e-e0f8fae50bdb" absoluteBounds="3.75, 4.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/EmployeeDataClassesDataContext/PERMISSION" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ecf5328d-5f28-457e-9c23-c16fb3c155b1" absoluteBounds="3.765, 5.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2fb53345-9a7b-4ac4-bccd-3fb2d10c2003" absoluteBounds="6.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/EmployeeDataClassesDataContext/PERMISSIONSTATE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="353917b2-963e-4396-8fd2-45e2b1b5771a" absoluteBounds="6.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c5bcf804-e532-4365-97df-25befc3c76cb" absoluteBounds="6.75, 2.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/EmployeeDataClassesDataContext/POSITION" />
+      <nestedChildShapes>
+        <elementListCompartment Id="00ce3efb-b856-4544-a61e-46c457b42746" absoluteBounds="6.765, 3.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="104a3a98-2e00-4014-8e27-068aa1013053" absoluteBounds="6.75, 5.75, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/EmployeeDataClassesDataContext/SALARY" />
+      <nestedChildShapes>
+        <elementListCompartment Id="26e4fa60-76d9-4d37-9008-2853bdf80cb3" absoluteBounds="6.765, 6.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2ce2f06a-7dab-406c-adad-53ebf5ca3b3c" absoluteBounds="0.75, 7.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/EmployeeDataClassesDataContext/TASK" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f3d83d58-9c93-4127-8596-e064f963bd21" absoluteBounds="0.765, 8.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
